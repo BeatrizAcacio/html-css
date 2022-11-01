@@ -1,0 +1,40 @@
+header{
+	width:100%;
+	height:100px;
+	background-color:grey;
+	color:pink;
+	float:left;
+}
+
+ul{
+	width:100%;
+	height:20px;
+	background-color:pink;
+	color:grey;
+	float:left;
+}
+content{
+	width: 80%;
+	height:800px;
+	background-color: grey;
+	color: black;
+	float:right;
+}
+
+nav{
+	width:20%;
+	height:800px;
+	background-color:lightcyan;
+	color:black;
+	float:left;
+}
+
+footer{
+	width:100%;
+	height:20px;
+	background-color:pink;
+	color: red;
+	float:right;
+}
+
+	
